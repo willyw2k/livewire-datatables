@@ -11,20 +11,10 @@
     "type": "library",
     "authors": [
         {
-            "name": "Mark Salmon",
-            "email": "mark.salmon@mediconesystems.com",
+            "name": "willy w2k",
+            "email": "willy.willian@hotmail.com",
             "role": "Developer"
-        },
-        {
-            "name": "Shane Burrell",
-            "email": "shane@shaneburrell.com",
-            "role": "Developer"
-        },
-        {
-            "name": "Herbert Maschke",
-            "email": "thyseus@pm.me",
-            "role": "Developer"
-        }
+        },      
     ],
     "require": {
         "php": "^8.1",
